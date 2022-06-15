@@ -5,6 +5,7 @@ Cuenta con una vista principal la cual muestra el listado de los empleados. A pa
 ## Tecnologías
 ***
 * PHP 8.1.5
+* MariaDB 10.4.24
 * Bootstrap 5.1.3
 * Font Awesome6.1.1
 ### Capturas de Pantalla
